@@ -1,0 +1,5 @@
+baseURL = 'https://www.jeffvansteijn.nl'
+languageCode = 'en-us'
+title = 'Personal Jeff website'
+theme= 'etch'
+publishDir = "new_public_directory"

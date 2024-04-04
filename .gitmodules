@@ -1,0 +1,4 @@
+[submodule "personal/new_public_directory"]
+	path = personal/new_public_directory
+	url = https://github.com/Jeffste/jeffvansteijn.nl.git
+	branch = main
