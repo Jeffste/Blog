@@ -2,3 +2,7 @@
 	path = personal/new_public_directory
 	url = https://github.com/Jeffste/jeffvansteijn.nl.git
 	branch = main
+[submodule "jeffsite/public"]
+	path = jeffsite/public
+	url = https://github.com/Jeffste/jeffvansteijn.nl.git
+	branch = main
