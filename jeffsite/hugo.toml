@@ -2,6 +2,8 @@ baseURL = 'https://www.jeffvansteijn.nl/'
 languageCode = 'en-us'
 title = 'Jeff van Steijn'
 theme = 'maverick'
+publishDir = "public"
+
 
 
 [menu]
